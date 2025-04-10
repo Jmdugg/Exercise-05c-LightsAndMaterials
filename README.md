@@ -1,5 +1,5 @@
 # Exercise-05c-LightsAndMaterials
-
+3D spheres with textures and lighting exercise for MSCH-C220, Spring 2025
 
 ## Implementation
 
@@ -8,4 +8,4 @@
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Josephine Dugger
